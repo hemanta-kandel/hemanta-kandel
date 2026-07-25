@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**<br>- 🌱 Currently learning **Python**, **C++**, and **ROS 2**<br>- 💡 Focused on solving real-world problems through intelligent systems and automation
-- 🚀 Exploring Computer Vision, Robotics, and practical AI applications<br>- ⚡ Believer in deep work, consistency, and continuous skill building
+- 🔭 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**<br>- 🌱 Currently learning **Python**, **C++**, and **ROS 2**<br>- 💡 Focused on solving real-world problems through intelligent systems and automation<br>- 🚀 Exploring Computer Vision, Robotics, and practical AI applications<br>- ⚡ Believer in deep work, consistency, and continuous skill building
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadityakandel188@gmail.com)
@@ -23,5 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hemanta-kandel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=hemanta-kandel&icon=4&color=8)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=hemanta-kandel&icon=4&color=8)](https://github.com/hemanta-kandel)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
