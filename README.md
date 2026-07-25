@@ -17,28 +17,28 @@
 
 # 💻 Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="80" height="80" alt="NumPy"
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="80" alt="NumPy"
        style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://matplotlib.org/_static/logo2.svg" width="80" height="80" alt="Matplotlib"
-       style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" width="80" height="80" alt="Pandas"
-       style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" height="80" alt="scikit-learn"
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" width="80" alt="Matplotlib"
        style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80" alt="PyTorch"
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" width="80" alt="Pandas"
        style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="80" height="80" alt="Transformers"
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" alt="scikit-learn"
        style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" width="80" height="80" alt="ROS2"
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" alt="PyTorch"
+       style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="80" alt="Transformers"
+       style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" width="80" alt="ROS2"
        style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
