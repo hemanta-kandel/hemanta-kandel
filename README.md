@@ -17,12 +17,15 @@
 
 # 💻 Tech Stack
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" height="80" alt="Python"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" height="80" alt="C++"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" height="80" alt="Git"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" height="80" alt="Linux"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80" alt="TensorFlow"/>
-  <img src="https://media.giphy.com/media/SS8CV5rJrDwFG/giphy.gif" width="80" height="80" alt="JavaScript"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80" height="80" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="80" height="80" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" width="80" height="80" alt="Pandas"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="80" height="80" alt="Transformers"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80" alt="PyTorch"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" height="80" alt="scikit-learn"/>
+  <img src="https://matplotlib.org/_static/logo2.svg" width="80" height="80" alt="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" width="80" height="80" alt="ROS2"/>
 </p>
 
 ---
